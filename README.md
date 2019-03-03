@@ -7,7 +7,7 @@ My name is Adam Matan, and I am looking for a technical leadership role (Technic
      height="300px" />
 
 # What do I do?
-I am a Backend developer, team leader, ex-CTO and public speaker. I build end-to-end apps using modern cloud tools - from Docker containers to Serverless functions. My favorite language is Python.
+I am a team leader, ex-CTO, Backend developer, and public speaker. I build end-to-end apps using modern cloud tools - from Docker containers to Serverless functions and Infrastructure as code (IaC) tools. I am a polyglot, but my favorite language is Python.
 
 # What do I bring to the table?
 * **Team and Business**: As former CTO and DevRel, I understand business goals and build productive communication between the dev team, company leadership, and customers. Experienced in working with developers and partners in the US.
@@ -18,13 +18,13 @@ I am a Backend developer, team leader, ex-CTO and public speaker. I build end-to
 I am seeking a technical leadership position in a growing startup in Tel Aviv, with a positive impact on our world. Interacting with customers and product - a great plus.
 
 # Experience
-Developer at Waze and Yahoo!, CTO at Vioozer.com, DevRel and Developer at Binaris.com.
+DevRel and Developer at [Binaris](https://binaris.com/), CTO at [Vioozer](https://www.vioozer.com/), IFS/BE Developer at [Waze](https://en.wikipedia.org/wiki/Waze) and [Yahoo!](https://techcrunch.com/2010/10/05/yahoo-dapper/).
 
 # Contact me
 adam@matan.name
 
 # Read more
 * [CV](Adam_Matan.pdf) (in Latex!)
-* [Public speaking experience](https://adamatan.github.io/cfp/)
 * [Stack Overflow profile](https://stackoverflow.com/users/51197/adam-matan)
 * [Linkedin profile](https://www.linkedin.com/in/adamatan/)
+* [Public speaking experience](https://adamatan.github.io/cfp/)
