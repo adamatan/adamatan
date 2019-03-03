@@ -1,13 +1,13 @@
 # Hi!
 
-My name is Adam Matan, and I am looking for a technical leadership role (Technical Team Lead, VP R&D or alike) in a startup in Tel Aviv.  
+My name is Adam Matan, and I am looking for a technical leadership role (Technical Team Lead, VP R&D or alike) in a growing startup in Tel Aviv.  
 
 <img src="profile.jpg"
      alt="Profile image - Adam Matan"
      height="300px" />
 
 # What do I do?
-I am a team leader, ex-CTO, Backend developer, and public speaker. I build end-to-end apps using modern cloud tools - from Docker containers to Serverless functions and Infrastructure as code (IaC) tools. I am a polyglot, but my favorite language is Python.
+I am a team leader, ex-CTO, Backend developer, and public speaker. I build end-to-end apps using modern cloud tools - from Docker containers to Serverless functions and Infrastructure as code (IaC) tools. I am a polyglot, but my favourite language is Python.
 
 # What do I bring to the table?
 * **Team and Business**: As former CTO and DevRel, I understand business goals and build productive communication between the dev team, company leadership, and customers. Experienced in working with developers and partners in the US.
