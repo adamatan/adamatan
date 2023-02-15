@@ -1,15 +1,10 @@
 # Hi!
 
-My name is Adam Matan. I'm an experienced hands-on R&D manager.
+My name is Adam Matan, VP R&D at [craft.io](https://craft.io/).
 
 <img src="profile.jpg"
      alt="Profile image - Adam Matan"
      height="300px" />
-
-# What am I looking for?
-A leadership position in a software company in or around Tel Aviv.
-
-Feel free to be in touch even if your company does not exactly fit the profile. Surprising things happen at coffee meetings.
 
 # What do I do?
 I am an R&D manager, developer, and public speaker. My teams build end-to-end apps using modern cloud tools. I love owning delivery, team building, and dev-management-product communication.
